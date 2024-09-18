@@ -29,6 +29,7 @@ top: 0px; margin-top: 10px;
 li,i{
     margin: 4px 10px;
 }
+ .collection{margin-left: 11%;}
 a{
     color:rgba(0, 0, 0,.7);
 }
